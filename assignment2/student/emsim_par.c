@@ -167,8 +167,9 @@ void playGroups(team_t* teams, int numWorker) {
 
     debug_print("Distributing work to threads\n");
     for (g = 0; g < NUMGROUPS; ++g) {
-        for (i = g * TEAMS_PER_GROUP; i < (g + 1) * TEAMS_PER_GROUP; ++i) {
-            for (j = i + 1; j < (g + 1) * TEAMS_PER_GROUP; ++j) {
+        for (i =  g * TEAMS_PER_GROUP; i < (g+1) * TEAMS_PER_GROUP; ++i) {
+            for (j = (g+1) * TEAMS_PER_GROUP - 1; j > i; --j) {
+                debug_print("%d, %d, %d\n", g, i ,j);
                 // debug_print("%d, %d, %d\n", g, i, j);
                 find_idle_worker(numWorker, idles, &numIdles);
                 debug_print("Found idle %d threads:\n", numIdles);
