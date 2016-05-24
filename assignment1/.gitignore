@@ -1,8 +1,0 @@
-*.c
-*.pdf
-*.h
-*.db
-*.a
-Makefile
-student/*
-!student/emsim_par.c
