@@ -5,4 +5,4 @@
 */*.a
 Makefile
 */student/*
-!*/student/emsim_par.c
+!*/student/*.c
