@@ -9,7 +9,7 @@ void compute(unsigned long *a, unsigned long *b, unsigned long *c, unsigned long
     #pragma omp parallel num_threads(num_threads)
     {
     #pragma omp for
-	for (int i = 2; i < N - 1; i++) {
+	for (int i = 2; i < N; i++) {
 		
         b[i] = 2 * c[i - 1];
 
