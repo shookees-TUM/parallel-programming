@@ -2,6 +2,7 @@
 
 void compute(unsigned long **a, unsigned long **b, unsigned long **c, unsigned long **d, int N, int num_threads) {
 
+	#pragma omp parallel for num_threads(num_threads)
 	for (int i = 1; i < N; i++) {
 		//do not shift, just precalculate a[i][1]
 		a[i][1] = 2 * b[i][1] + d[i][1];
