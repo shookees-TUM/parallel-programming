@@ -7,10 +7,6 @@ void compute(unsigned long **a, unsigned long **b, unsigned long **c, unsigned l
 		a[i][1] = 2 * b[i][1] + d[i][1];
 		for (int j = 2; j < N; j++) {
 			a[i][j] = 2 * b[i][j] +d[i][j];
-		}
-
-		//shifted to left by 1
-		for (int j = 2; j < N; j++) {
 			d[i][j    ] = a[i][j    ] * c[i][j - 1];
 			c[i][j - 2] = a[i][j - 2] - a[i][j    ];
 		}
