@@ -1,0 +1,862 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_sample",
+				"get_sample_probabilities"
+			],
+			[
+				"prob",
+				"prob_table"
+			],
+			[
+				"probs",
+				"probs_size"
+			],
+			[
+				"load",
+				"load_metadata"
+			],
+			[
+				"parent",
+				"parent_name"
+			],
+			[
+				"build",
+				"build"
+			],
+			[
+				"json",
+				"json_filepath"
+			],
+			[
+				"weight",
+				"weighted_stdev"
+			],
+			[
+				"node",
+				"node_weights"
+			],
+			[
+				"get_sampl",
+				"get_sample_and_weight"
+			],
+			[
+				"dis",
+				"distribution"
+			],
+			[
+				"mome",
+				"moments"
+			],
+			[
+				"fnstruc",
+				"fnstruct_fields"
+			],
+			[
+				"fiel",
+				"fieldnames"
+			],
+			[
+				"moment",
+				"moment_fields"
+			],
+			[
+				"param",
+				"param_fields"
+			],
+			[
+				"dep_",
+				"dep_name"
+			],
+			[
+				"dep",
+				"dep_value"
+			],
+			[
+				"find",
+				"find_and_insert"
+			],
+			[
+				"secon",
+				"secondary_operators"
+			],
+			[
+				"get",
+				"get_sample_probabilities"
+			],
+			[
+				"se",
+				"secondary_operators"
+			],
+			[
+				"primary",
+				"primary_operators"
+			],
+			[
+				"norm",
+				"normcdf	GNUOct func"
+			],
+			[
+				"debug",
+				"DEBUG〔variable〕"
+			],
+			[
+				"idx",
+				"idx_classes〔variable〕"
+			],
+			[
+				"right",
+				"right_branch"
+			],
+			[
+				"left",
+				"left_branch"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"print",
+				"print_node"
+			],
+			[
+				"gre",
+				"greedy_nodes"
+			],
+			[
+				"lef",
+				"left_classes〔variable〕"
+			],
+			[
+				"leaf",
+				"leaf_b〔variable〕"
+			],
+			[
+				"feature",
+				"feature_index〔variable〕"
+			],
+			[
+				"imp",
+				"impurity"
+			],
+			[
+				"sample",
+				"sample_index〔variable〕"
+			],
+			[
+				"sam",
+				"sample_index〔variable〕"
+			],
+			[
+				"count",
+				"count_classes"
+			],
+			[
+				"purity",
+				"purity_gini"
+			],
+			[
+				"insert",
+				"\\insertsubsectionhead"
+			],
+			[
+				"inser",
+				"\\insertsubsectionhead"
+			],
+			[
+				"inserts",
+				"\\insertsectionhead"
+			],
+			[
+				"subs",
+				"\\subsection{}"
+			],
+			[
+				"mean",
+				"mean_time〔variable〕"
+			],
+			[
+				"goog",
+				"google_dns_ip〔variable〕"
+			],
+			[
+				"router",
+				"router_ping_threshold〔variable〕"
+			],
+			[
+				"fuck",
+				"fucking_router〔variable〕"
+			],
+			[
+				"packet",
+				"packet_loss〔variable〕"
+			],
+			[
+				"stats",
+				"stats_output〔variable〕"
+			],
+			[
+				"rout",
+				"router_ip"
+			],
+			[
+				"ping",
+				"ping_output〔variable〕"
+			],
+			[
+				"route",
+				"router_ip〔variable〕"
+			],
+			[
+				"MPI",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"te",
+				"textarea	<textarea>"
+			],
+			[
+				"garm",
+				"garmin"
+			],
+			[
+				"file",
+				"file_location〔variable〕"
+			],
+			[
+				"garmin",
+				"garmin_url〔variable〕"
+			],
+			[
+				"antfs",
+				"antfs_command〔variable〕"
+			],
+			[
+				"ant",
+				"antfs-cli/"
+			],
+			[
+				"kenrl",
+				"kernel_size〔variable〕"
+			],
+			[
+				"kernel",
+				"kernel_size〔variable〕"
+			],
+			[
+				"kerne",
+				"kernel_size〔variable〕"
+			],
+			[
+				"image",
+				"image_convoluted〔variable〕"
+			],
+			[
+				"con",
+				"convolve"
+			],
+			[
+				"sleep",
+				"sleep_time"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "latex",
+		"selected_items":
+		[
+			[
+				"latex",
+				"LaTeX-Plus: Build"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"lint",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"octave",
+				"Snippet: Octave function"
+			],
+			[
+				"diagram",
+				"Diagram: Generate Diagrams for Active View"
+			],
+			[
+				"yuml",
+				"yUML: Open Diagram in Browser"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"LATEX",
+				"LaTeX-Plus: Build"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"latex-p",
+				"LaTeX-Plus: Build"
+			],
+			[
+				"latex bui",
+				"LaTeXing: Rebuild Cache (Hard)"
+			],
+			[
+				"BUILD",
+				"Build: New Build System"
+			],
+			[
+				"build",
+				"LaTeXTools: Build cache for LaTeX packages"
+			],
+			[
+				"latext",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"latextools:",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"oinstall",
+				"Package Control: Install Package"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"latexing",
+				"LaTeXing: Open PDF"
+			],
+			[
+				"latexin",
+				"LaTeXing: Open PDF"
+			],
+			[
+				"remo e",
+				"Package Control: Remove Package"
+			],
+			[
+				"pdf",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/paulius/Documents/Projects/TUM/PP"
+	],
+	"file_history":
+	[
+		"/home/paulius/Documents/Projects/TUM/PP/.sublime-project",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/docs/wiki/presentation.tex",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/runner.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/read_function.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/get_samples.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/docs/wiki/Distributions/presentation.tex",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/function_distr.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/fnstruct.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/fnresolve.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/find_and_insert.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/evidence.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/distribution.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/discrete_distr.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/node_metadata.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/node.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/network_stats.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/net.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/normal_distr.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/monte_carlo_run.matlab",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/markov_blanket.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/load_network.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5_only_discrete.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/lognormal_distr.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5_only_function.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/find_and_insert.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_2x2_only_discrete.json",
+		"/home/paulius/Desktop/wtf.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_2x2.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_2x2_only_function.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/TODO",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_8x8.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5_unordered.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/load_network2.m",
+		"/home/paulius/Downloads/airport_wifi.txt",
+		"/tmp/.fr-Q32Ire/src/org/runetracker/actions/UpdateNow.java",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5_only_normal.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/.sublime-project",
+		"/media/paulius/Contacts/If found.txt",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/wiki/Home.md",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5_only_discrete.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_8x8_only_normal.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_2x2_only_normal.json",
+		"/home/paulius/Downloads/bn/get_sample_workaround.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_2x2_only_normal.csv",
+		"/home/paulius/Downloads/bn/SampleBN.m",
+		"/home/paulius/Downloads/bn/DefineNodes.m",
+		"/home/paulius/Downloads/bn/ATT00001.c",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_8x8_only_function.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_8x8_only_discrete.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_8x8_only_discrete.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_2x2_only_discrete.csv",
+		"/home/paulius/Documents/Projects/Games/RS/liths/test.py",
+		"/home/paulius/Downloads/notify-builds/MANUAL.txt",
+		"/home/paulius/Downloads/notify-builds/README.txt",
+		"/home/paulius/.config/sublime-text-3/Packages/Javascript Beautify/Default (Linux).sublime-keymap",
+		"/home/paulius/.config/sublime-text-3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5_2.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5_unordered.csv",
+		"/home/paulius/.octaverc",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_8x8_only_normal.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_2x2_only_function.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5_2.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_8x8.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_8x8_only_function.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5_only_normal.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_5x5_only_function.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/input_5x5_only_discrete.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/input_5x5_only_discrete.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/tests/resources/input_2x2.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/input_2x2_only_normal.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/input_2x2_only_normal.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/input_2x2_only_function.json",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/input_2x2_only_function.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/monte_carlo_run.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/runner.sh",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/read_variable.m",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/.git/COMMIT_EDITMSG",
+		"/usr/share/applications/defaults.list",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/normal_distr.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/load_network.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/node.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/distribution.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/markov_blanket.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/net.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/evidence.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/resources/input_8x8.json",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/resources/input_5x5_unordered.json",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/resources/input_2x2.json",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/resources/input_5x5.json",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/resources/input_5x5_2.json",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/resources/input_5x5.csv",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/resources/input_2x2.csv",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/node_metadata.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/docs/Blueprints/classes.puml",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/src/octave-workspace",
+		"/home/paulius/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/paulius/.bashrc",
+		"/home/paulius/.local/share/applications/VAM.desktop",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/test_all.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/@node/load_network.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/@node/net.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/@node/node.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/@node/evidence.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/@node/Net.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/@node/distribution.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/@node/markov_blanket.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/docs/Blueprints/node.puml",
+		"/home/paulius/Documents/TUM/MSc 2015-2017/2nd semester/Parallel programming/Assignments/assignment1/Makefile",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/resources/input_longer.csv",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/test_load.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/@node/load.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/resources/input.csv",
+		"/home/paulius/Documents/Projects/TUM/Engineering Risk Analysis Group/Bayesian network/.gitignore",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/test_evidence.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/foobar.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/src/load.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/evidence.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/evidence_tests.m",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/tests/dag_loader.m",
+		"/home/paulius/.local/share/geary/paulius.sukys@tum.de/attachments/104/22/smime.p7s",
+		"/home/paulius/.config/sublime-text-3/Packages/yUML/yUML.sublime-settings",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/docs/Blueprints/node.yuml",
+		"/home/paulius/Documents/TUM/HiWi/Bayesian networks/Bayesian network/docs/Blueprints/node.mp",
+		"/home/paulius/Documents/TUM/HiWi/Safe Embedded Systems/basics-of-dependable-systems/01/lecture/01.tex",
+		"/home/paulius/Documents/TUM/HiWi/Safe Embedded Systems/basics-of-dependable-systems/01/latex/exercise/01.tex",
+		"/home/paulius/Documents/TUM/HiWi/Safe Embedded Systems/basics-of-dependable-systems/01/latex/lecture/01.tex"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"values",
+			"get_sample",
+			"probs_table",
+			"prob_table",
+			"table",
+			"size(dj.params.table)",
+			"parse_dis",
+			"csv",
+			"root",
+			"csv",
+			"net.roots",
+			"net.leaves",
+			"idx",
+			" n.",
+			"n.",
+			"7",
+			"5",
+			"3",
+			"invnorm",
+			"idx",
+			"net.",
+			"nodes",
+			"net.nodes",
+			"net.",
+			"weight",
+			"Weight",
+			"weight",
+			"w(1)",
+			"weight",
+			"(i)",
+			"i",
+			"==",
+			"evidence",
+			"dependencies",
+			"obj.",
+			"Lake volume",
+			"Normal",
+			"==",
+			"fnstruct",
+			"outputs",
+			"output",
+			"outputs",
+			"\"\":",
+			"outputs",
+			"printf('TEST:",
+			"\"FAIL\\n\"));",
+			"success==0",
+			"printf(ifelse(success==0, \"PASS\\n\", \"FAIL\\n\"));",
+			" - '",
+			"nmax - n",
+			"[n, nmax]",
+			"'normal');",
+			"- n;",
+			"'normal')",
+			"success",
+			"disp",
+			" 'normal');",
+			"verbose",
+			"success",
+			"read_function",
+			"1,",
+			"str2int",
+			"update",
+			"i",
+			"root",
+			"'",
+			"end",
+			"load_metadata",
+			"endif",
+			"endfor",
+			"endfunction",
+			"load_metadata",
+			"success = success + result - 1;",
+			"../../",
+			"'<'",
+			"less",
+			"'<'",
+			"less",
+			"'<'",
+			"less",
+			"'<'",
+			"less",
+			"=",
+			"equals",
+			"p",
+			"m",
+			"is",
+			"Not equals",
+			"~=",
+			"is",
+			"Not equals",
+			"is",
+			"~=",
+			"Not equals",
+			"LESS",
+			"~=",
+			"is",
+			"5",
+			"Not equals",
+			"equals",
+			"Not equals",
+			"Equals",
+			"<>",
+			"\\\\",
+			"Minimum Width",
+			"5",
+			"rvice integrity};\n            \\node [typetag] (capability) {Capability};",
+			"};\n",
+			"7cm",
+			"non-blocking",
+			"$pdf",
+			"$pdflatex",
+			"latexmk",
+			"linux",
+			"liniux",
+			"command",
+			"Exec",
+			"if",
+			"build_node",
+			"boundary",
+			"build_nodes",
+			"split_samples",
+			"data",
+			"nodes",
+			"sample_index",
+			"left_branch",
+			"sample",
+			"@"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\vspace{-12pt}",
+			"https://"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": ".sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"exercise/01.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
